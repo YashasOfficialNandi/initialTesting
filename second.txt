@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 
-
+oeijile
 B
 C
 A
 A
 A
 
+=======
+hj  
+learning experiment 2
+>>>>>>> main
