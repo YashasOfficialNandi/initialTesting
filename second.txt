@@ -1,3 +1,12 @@
+
+
+
+this is exp 3
+this is a new line
+A
+A
+B
+B
 <<<<<<< HEAD
 
 oeijile
